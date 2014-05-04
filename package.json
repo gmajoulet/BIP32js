@@ -1,0 +1,14 @@
+{
+    "name": "BIP32js",
+    "version": "0.0.1",
+    "scripts": {
+        "test": "node_modules/mocha/bin/mocha test/test.js -R list"
+    },
+    "dependencies": {
+        "bitcore": "v0.1.18"
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "expect.js": "*"
+    }
+}
